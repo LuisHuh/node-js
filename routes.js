@@ -1,5 +1,5 @@
 /**
- * @author Luis Enrique Huh Puc <lhuh@palaceresorts.com>
+ * @author Luis Enrique Huh Puc <luisenriquehuhpuc@hotmail.com>
  * @description ROUTES OFFLINE MODE
  */
 

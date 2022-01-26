@@ -1,5 +1,5 @@
 /**
- * @author Luis Enrique Huh Puc <luisenriquehuhpuc@hotmail.com
+ * @author Luis Enrique Huh Puc <luisenriquehuhpuc@hotmail.com>
  * @description SERVER CONFIG FILE
  */
 
